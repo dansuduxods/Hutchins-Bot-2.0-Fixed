@@ -1,16 +1,16 @@
 {
-  "prefix": "!",
+  "prefix": "/",
   "adminUIDs": [
-   "your uid"
+   "61554405703021"
   ],
   "moderatorUIDs": [
-    "your uid",
+    "61554405703021",
     "",
     ""
   ],
-  "botName": "bot name",
-  "ownerName": "Your name",
-  "facebookLink": "fb link",
+  "botName": "gujo bot",
+  "ownerName": "Daniel Mojar",
+  "facebookLink": "https://www.facebook.com/profile.php?id=61554405703021",
   "resend": false,
   "notilogs": true,
   "appstate": "./appstate.json",
@@ -18,8 +18,8 @@
   "restartTime": 50,
   "FCA": "hut-chat-api",
   "loginpanel": {
-    "user": "your username in dashboard",
-    "password": "password your dashboard",
+    "user": "dannsll",
+    "password": "danielot",
     "passcode": "12345"
   }
 }
